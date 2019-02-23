@@ -1,0 +1,4 @@
+#Tue Feb 19 19:17:21 SGT 2019
+base.0=E\:\\S1_Teknik_Informatika\\Skripsi_Project\\fast_courier\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
